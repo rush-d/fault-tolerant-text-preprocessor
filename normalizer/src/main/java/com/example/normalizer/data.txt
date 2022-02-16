@@ -1,0 +1,1 @@
+Most of the dataset contains many words that are generated from a single word by adding some suffix or prefix. These conditions can cause redundancy in our dataset and it will not give a better output. So it is an important task to convert those words into their root form that also decreases the count of unique words in our dataset and improves our outcomes.
