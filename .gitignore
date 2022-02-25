@@ -10,3 +10,6 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 .idea
+Services/circuit-breaker-example-1/.idea
+Services/circuit-breaker-example-2/.idea
+Services/circuit-breaker-example-3/.idea
